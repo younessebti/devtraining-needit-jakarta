@@ -4,12 +4,13 @@
         <access>public</access>
         <actions_access>false</actions_access>
         <alter_access>false</alter_access>
+        <caller_access/>
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
         <create_access>false</create_access>
         <create_access_controls>true</create_access_controls>
         <delete_access>false</delete_access>
-        <extension_model/>
+        <extension_model>class</extension_model>
         <is_extendable>false</is_extendable>
         <label>NeedIt</label>
         <live_feed_enabled>false</live_feed_enabled>
@@ -17,8 +18,10 @@
         <number_ref display_value="NI">1e427f010fe83200cd674f8ce1050e8b</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">5da4c2856110320092c0b8181e2a7aa0</super_class>
+        <super_class display_value="Task" name="task">726719eb0a0a3c740056d75fb10e7807</super_class>
+        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-24 22:46:33</sys_created_on>
         <sys_customer_update>false</sys_customer_update>

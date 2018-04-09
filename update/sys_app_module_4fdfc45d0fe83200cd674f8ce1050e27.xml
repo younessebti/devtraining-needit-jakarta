@@ -27,7 +27,6 @@
         <sys_created_on>2017-01-25 01:01:22</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>4fdfc45d0fe83200cd674f8ce1050e27</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Create New</sys_name>
@@ -41,6 +40,7 @@
         <sys_updated_on>2017-01-25 01:01:22</sys_updated_on>
         <timeline_page/>
         <title>Create New</title>
+        <u_owners/>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

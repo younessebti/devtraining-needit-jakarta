@@ -14,7 +14,6 @@
         <sys_created_on>2017-01-24 22:46:33</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>0242fb8d0fa83200cd674f8ce1050e79</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>NeedIt</sys_name>
@@ -27,6 +26,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-01-24 22:46:33</sys_updated_on>
         <title>NeedIt</title>
+        <u_owners/>
         <view_name/>
     </sys_app_application>
 </record_update>
